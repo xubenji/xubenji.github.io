@@ -4,7 +4,12 @@
 
 *Slate is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/slate), or even [use it today](#usage).*
 
+<<<<<<< HEAD
 ![Thumbnail of Slate](thumbnail.png)
+=======
+### 调试pintools之libdft64动态污点追踪
+[pinttools:libdft64](https://github.com/xubenji/xubenji.github.io/blob/main/pintools/libdft64)
+>>>>>>> 0b39fcd3c488d9e371035c950f0a66e7baf339ad
 
 ## Usage
 
