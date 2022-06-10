@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/xubenji/xubenji.github.io/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 调试pintools之libdft64动态污点追踪
-[pinttools:libdft64](https://github.com/xubenji/xubenji.github.io/pintools/libdft64)
+[pinttools:libdft64](https://github.com/xubenji/xubenji.github.io/blob/main/pintools/libdft64)
 
 ### Markdown
 
