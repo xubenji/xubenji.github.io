@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 调试pintools之libdft6
+title: 调试pintools之libdft64动态污点追踪工具
 date: 2022-06-10
 tags: jekyll 
 ---
