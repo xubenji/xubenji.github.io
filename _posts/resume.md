@@ -6,7 +6,7 @@
                      Foundation of Cybersecurity; 
                      Real-time and Embedded Systems; etc.
                      
-### Skills 
+## Skills 
       Software: gdb, qemu, git, docker, UEFI.
       Programming Languages: C/C++, makefile, Shell, Python, Intel & ARM assembly.
       Operating Systems & Kernel: Linux, kdump, Operating System DolphinOS, and dolphin2. 
