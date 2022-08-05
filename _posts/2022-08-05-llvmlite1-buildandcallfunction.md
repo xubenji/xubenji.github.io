@@ -1,3 +1,12 @@
+---
+
+layout: post
+title: llvmlite学习笔记1---生成和调用函数
+date: 2022-08-05
+tags: jekyll
+
+---
+
 llvmlite是llvm的一个简化版本，他使用python来生成LLVM IR，首先我们熟悉一下整个编译过程。
 1，拿到llvmir：
     
