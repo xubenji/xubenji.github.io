@@ -1,3 +1,12 @@
+---
+
+layout: post
+title: VScode学习笔记1---使用clangd插件格式化代码
+date: 2022-12-28
+tags: jekyll
+
+---
+
 # vscode_1: 使用clangd格式化代码
 
 ------
