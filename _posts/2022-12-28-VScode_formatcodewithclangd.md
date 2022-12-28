@@ -28,7 +28,7 @@ MacOS下，找到顶部view一栏，点击command Palette，再点击Preference:
 
 ### 2. 设置格式类型
 clangd支持许多格式类型，Microsoft，Google，clang，clangd默认的格式为clang，我们要把他改成Microsoft类型的格式。
-在vs code打开的项目文件夹下建立一个名为 “.clang-format“的文件夹。在文件夹中粘贴以下内容：
+在vs code打开的项目文件夹下建立一个名为 “.clang-format“的文件。在文件中粘贴以下内容：
 
 ```
 BasedOnStyle: Microsoft
