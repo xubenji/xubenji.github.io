@@ -16,7 +16,10 @@ tags: jekyll
 ------
 
 ### 1. 在vs code中安装clangd插件
-    
+
+(如果你是使用的ssh连接服务器进行远程开放，请先在服务器上安装clangd）(apt-get install ....)
+
+
 在vscode搜索clangd插件并安装
 安装好以后会和C/C++ IntelliSense冲突，所以要disable C/C++ IntelliSense（如果你安装了这个插件的情况下），disable如果不成功，使一下大写D，“Disable”。
 当然，你也可以通过vs code的配置文件更改设置。
@@ -112,4 +115,4 @@ static void thread_alloc(THREADID tid, CONTEXT *ctx, INT32 flags, VOID *v) {
   }
 }
 ```
-明显Microsoft的要好看一些，当然你如果有喜欢的代码格式可以更改.format-clang文件。
+明显Microsoft的要好看一些，当然你如果有喜欢的代码格式可以更改.clang-format文件。
