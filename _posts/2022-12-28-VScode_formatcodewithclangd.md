@@ -41,8 +41,9 @@ AlignTrailingComments: true
 AllowShortFunctionsOnASingleLine: Inline
 AllowShortIfStatementsOnASingleLine: false
 BreakBeforeBraces: Allman
-ColumnLimit: 0
+ColumnLimit: 400
 ```
+(ColumnLimit最好设置为一个具体数值，如果设置为0那么它会将一行长代码分割代码到不同的行）
 保存好以后重启vscode，再次进入工作目录，按住ctrl+s就可以发现你的代码被自动格式化为微软类型的格式了。
 格式化后的代码展示：
 ```
